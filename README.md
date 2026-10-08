@@ -1,4 +1,4 @@
-# Hi, I'm Sreelekha 👋
+# Hi, I'm Sreelekha
 
 ### Senior Software Engineer | Microsoft 365 | SharePoint | SPFx | React
 
